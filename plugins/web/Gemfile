@@ -13,6 +13,7 @@ gem 'email_client', path: '../email_client'
 gem 'wordpress_client', path: '../wordpress_client'
 gem 'sqlite3'
 gem 'virtus'
+gem 'mysql2'
 
 gem 'jquery-rails'
 gem 'turbolinks'
